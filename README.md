@@ -1,2 +1,2 @@
 # scripts
-The repository contains helpful scripts for bioinformatics.
+This repository contains helpful scripts for bioinformatics.
